@@ -1,4 +1,4 @@
 # WritingRecorder
-Universal Handwriting Input for Mobile Devices based on Acoustic Sensing
+Writing on Any Surface: Learning to Recognize Handwriting Input with Acoustic Features
 
-This project includes the raw handwritten sounds dataset from 23 persons. We are organizing our codes and demo video, and plan to make them public soon.
+This project includes the raw handwritten sounds dataset from 24 persons. 
